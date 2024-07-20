@@ -2,7 +2,7 @@
 *Me is Joystik! Me do.. program.*
 
 ---
-Hi! I'm Joystick. I'm a front and backend developer, but I'm more into backend.
+Hi! I'm Joystick. I'm a front and backend developer, but I'm more into backend. Currently, I'm learning React and TS in general.
 
 | Programming Language | Proficiency Level   |
 |-----------------------|---------------------|
@@ -10,6 +10,7 @@ Hi! I'm Joystick. I'm a front and backend developer, but I'm more into backend.
 | Lua                   | ![Advanced](https://progress-bar.dev/90/)   |
 | JavaScript           | ![Intermediate](https://progress-bar.dev/73/)   |
 | HTML/CSS              | ![Intermediate](https://progress-bar.dev/73/)   |
+| TS (React)            | ![Beginner](https://progress-bar.dev/15)    |
 
 # 📫 Contact me!
 - I'm always available over Discord at @imperimen.
