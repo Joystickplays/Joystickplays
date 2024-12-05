@@ -22,7 +22,7 @@ Hi! I'm Joystick. I'm a hobbyist full-stack developer. Currently learning React 
 ![PalMirror banner](https://github.com/user-attachments/assets/ac9fca92-93f1-4f5a-9ad3-89091a5812c2)
 [![PalMirror repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Joystickplays&repo=palmirror&theme=dark)](https://github.com/Joystickplays/palmirror)  
 *A serverless AI platform that lets you interact with your favourite characters from a modern interface.*  
-> - Integrates with streamline platforms, taking your characters to PalMirror  
+> - Integrates with streamline platforms, taking your characters straight to PalMirror with just a link  
 > - Chat export and importing  
 > - OpenAI and proxy support  
 > - Meant for privacy
